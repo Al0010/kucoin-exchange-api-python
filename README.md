@@ -1,12 +1,12 @@
 # HOW USE CORRECTLY KUCOIN EXCHANGE API WITH PYTHON
 
-# 1. Install Kucoin library: 
+1. Install Kucoin library: 
 
-pip install kucoin
+`pip install kucoin`
 
-# 2. Create your API and enter your credentials
+2. Create your API and enter your credentials.
 
-# 3. Disable the hash mark before print() to test the data 
+3. Disable the hash mark before `print()` to test the data.
 
 The data you can manipulate with this scipt are: 
 
